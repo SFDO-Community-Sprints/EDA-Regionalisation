@@ -10,7 +10,7 @@ Please replace with your projects vision.
 * Goal 2
 
 ## Project Vertical
-Please replace with Nonprofit, Education, or Other (if Other, explain further)
+Education
 
 ## Hub Group Link
 Please replace with the URL for your Power of Us Hub and/or Trailblazer Community group.
