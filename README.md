@@ -5,7 +5,12 @@ EDA Regionalisation
 
 # Project Overview
 ## Vision & Goals
-Please replace with your projects vision.
+
+This new team will focus on identifying opportunities to tailor EDA for country, region, language, dialect, and education operating models. EDA was originally designed for AMER, and is now being used globally. 
+
+In our first sprint we will need to decide what we are seeking to achieve and how, but potential work output: Discovery and design for translations, modifications, and regional extension packs to the EDA data model and functionality.
+
+
 * Goal 1
 * Goal 2
 
