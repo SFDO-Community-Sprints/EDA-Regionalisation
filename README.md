@@ -1,4 +1,3 @@
-This is a sample README.md file you can use to update your project. New project repos will use this template when they are created.
 
 # Project Name
 EDA Regionalisation
@@ -8,17 +7,15 @@ EDA Regionalisation
 
 This new team will focus on identifying opportunities to tailor EDA for country, region, language, dialect, and education operating models. EDA was originally designed for AMER, and is now being used globally. 
 
-In our first sprint we will need to decide what we are seeking to achieve and how, but potential work output: Discovery and design for translations, modifications, and regional extension packs to the EDA data model and functionality.
+In our first sprint we will need to decide what we are seeking to achieve and how, but potential work output: Discovery and design for translations, modifications, and regional extension packs to the EDA data model and functionality: the idea being that you can install a UK, a Spanish, etc extension pack to EDA to take the existing objects and add an additional layer that is specific to the particular country (or greater area if possible) that will add fields (maybe objects also) that are core to the educational use in that particular area, and so EDA is an even closer fit to an areas needs, and there is more commonality or data model between institutions in a specific region.
 
-
-* Goal 1
-* Goal 2
+Goals will be updated once we have decided what they are!  As will the rest of this template 'readme' file.
 
 ## Project Vertical
 Education
 
 ## Hub Group Link
-Please replace with the URL for your Power of Us Hub and/or Trailblazer Community group.
+To be replaced with the URL for our Power of Us Hub and/or Trailblazer Community group should we wish to have one.
 
 # Current Project Team & Accomplishments
 
